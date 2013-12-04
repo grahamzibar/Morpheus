@@ -15,8 +15,7 @@
 * version 0.1.0 - ALPHA
 * https://www.github.com/grahamzibar/Morpheus
 
-
-* ![What if I told you this is not an animation library](https://www.github.com/grahamzibar/Morpheus/morpheus.jpg "Move your mouse elsewhere.")
+![What if I told you this is not an animation library](https://raw.github.com/grahamzibar/Morpheus/master/morpheus.jpg "Move your mouse elsewhere.")
 
 ## Animation libraries are cool!  But this isn't really that.
 
